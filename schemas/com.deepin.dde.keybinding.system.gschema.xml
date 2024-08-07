@@ -76,5 +76,15 @@
 			<summary>Turn off the screen</summary>
 			<description/>
 		</key>
+		<key type="as" name="dde-grand-search">
+			<default><![CDATA[['<Shift><Super>L']]]></default>
+			<summary>Turn off the screen</summary>
+			<description/>
+		</key>
+		<key type="as" name="global-search">
+			<default><![CDATA[['<Shift>space']]]></default>
+			<summary>filemanager global search</summary>
+			<description></description>
+		</key>
 	</schema>
 </schemalist>
