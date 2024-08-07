@@ -86,5 +86,20 @@
 			<summary>filemanager global search</summary>
 			<description></description>
 		</key>
+		<key type="as" name="notification-center">
+			<default><![CDATA[['<Super>M','<Meta>M']]]></default>
+			<summary>open notification center</summary>
+			<description/>
+		</key>
+		<key type="as" name="screenshot-ocr">
+			<default><![CDATA[['<Control><Alt>C']]]></default>
+			<summary>Take a screenshot for ocr</summary>
+			<description></description>
+		</key>
+		<key type="as" name="clipboard">
+			<default><![CDATA[['<Super>V','<Meta>V']]]></default>
+			<summary>Show clipboard</summary>
+			<description/>
+		</key>
 	</schema>
 </schemalist>
