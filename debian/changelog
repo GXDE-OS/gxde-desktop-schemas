@@ -1,7 +1,8 @@
-deepin-desktop-schemas (3.13.10gxde1) UNRELEASED; urgency=medium
+deepin-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 
-  * 
- -- gfdgd_xi <3025613752@qq.com>  Sat, 07 Sep 2024 21:04:59 +0800
+  * Add keybinding
+
+ -- gfdgd_xi <3025613752@qq.com>  Sun, 15 Sep 2024 08:45:26 +0800
 
 deepin-desktop-schemas (3.13.10gxde0) unstable; urgency=medium
 
