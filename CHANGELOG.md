@@ -3,7 +3,7 @@
 
 [3.13.1] 2019-05-09
 *   chore: change the default value of power screen-black-lock to true
-*   chore(mips): remove deepin-movie in dde-dock
+*   chore(mips): remove gxde-movie in dde-dock
 
 [3.13.0] 2019-03-15
 *   chore: disable swap-sched for sw and longxin
@@ -20,7 +20,7 @@
 #### Features
 
 *   dock add plugin-settings ([97feaa19](97feaa19))
-* **sw:**  add deepin-movie and smplayer ([be2accba](be2accba))
+* **sw:**  add gxde-movie and smplayer ([be2accba](be2accba))
 
 #### Bug Fixes
 
@@ -161,7 +161,7 @@
 *   add key apps-disable-scaling ([09632129](09632129))
 *   remove shortcut color-picker ([19e1ab14](19e1ab14))
 *   add 'auto-switch-port' in audio ([807dca57](807dca57))
-*   remove deepin-movie from fullscreen-workaround-list ([407ae707](407ae707))
+*   remove gxde-movie from fullscreen-workaround-list ([407ae707](407ae707))
 *   add shortcut color-picker ([1c91d4a3](1c91d4a3))
 *   add shortcut deepin-system-monitor ([bcaa6105](bcaa6105))
 * **dock:**  add delay-plugins-time ([bda1d76c](bda1d76c))
@@ -210,7 +210,7 @@
 *   add key apps-disable-scaling ([09632129](09632129))
 *   remove shortcut color-picker ([19e1ab14](19e1ab14))
 *   add 'auto-switch-port' in audio ([807dca57](807dca57))
-*   remove deepin-movie from fullscreen-workaround-list ([407ae707](407ae707))
+*   remove gxde-movie from fullscreen-workaround-list ([407ae707](407ae707))
 *   add shortcut color-picker ([1c91d4a3](1c91d4a3))
 *   add shortcut deepin-system-monitor ([bcaa6105](bcaa6105))
 * **schemas:**  add key inputdevices wheel-speed ([f59912e2](f59912e2))
