@@ -1,3 +1,9 @@
+deepin-desktop-schemas (3.13.12) UNRELEASED; urgency=medium
+
+  * Add gxde-movie
+
+ -- gfdgd_xi <3025613752@qq.com>  Sun, 15 Sep 2024 08:45:26 +0800
+
 deepin-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 
   * Add keybinding
