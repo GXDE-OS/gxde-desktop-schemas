@@ -1,8 +1,9 @@
-deepin-desktop-schemas (3.13.12) UNRELEASED; urgency=medium
+deepin-desktop-schemas (3.13.13) UNRELEASED; urgency=medium
 
   * Add gxde-movie
+  * 调整应用
 
- -- gfdgd_xi <3025613752@qq.com>  Sun, 15 Sep 2024 08:45:26 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Tue, 03 Dec 2024 22:23:09 +0800
 
 deepin-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 

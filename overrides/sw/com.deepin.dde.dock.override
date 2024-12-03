@@ -1,4 +1,4 @@
 [com.deepin.dde.dock]
-docked-apps=['dde-launcher','deepin-toggle-desktop', 'dde-file-manager','deepin-music','gxde-movie-2d','gxde-movie','smplayer','firefox','wps-office-wps','wps-office-wpp','wps-office-et', 'dde-control-center']
+docked-apps=['dde-launcher','deepin-toggle-desktop', 'dde-file-manager','gxde-music','gxde-movie-2d','gxde-movie','smplayer','firefox','wps-office-wps','wps-office-wpp','wps-office-et', 'dde-control-center']
 hide-mode='keep-showing'
 display-mode='efficient'
