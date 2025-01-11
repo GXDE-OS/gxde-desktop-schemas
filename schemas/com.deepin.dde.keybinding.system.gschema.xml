@@ -102,7 +102,7 @@
 			<description/>
 		</key>
 		<key type="as" name="gxde-picker">
-			<default><![CDATA[['<Control><Alt>V']]]></default>
+			<default><![CDATA[['<Control><Alt>P']]]></default>
 			<summary>GXDE Color Picker</summary>
 			<description></description>
 		</key>

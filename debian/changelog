@@ -1,9 +1,8 @@
-deepin-desktop-schemas (3.13.13) UNRELEASED; urgency=medium
+deepin-desktop-schemas (3.13.14) UNRELEASED; urgency=medium
 
-  * Add gxde-movie
-  * 调整应用
+  * 修改 gxde picker 快捷键以避免和 WPS 粘贴选项快捷键冲突
 
- -- gfdgd_xi <3025613752@qq.com>  Tue, 03 Dec 2024 22:23:09 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Sat, 11 Jan 2025 21:42:38 +0800
 
 deepin-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 
