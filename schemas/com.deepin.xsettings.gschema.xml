@@ -9,7 +9,7 @@
       </description>
     </key>
     <key type="s" name="icon-theme-name">
-      <default>'deepin'</default>
+      <default>'gxde'</default>
       <summary>Icon theme</summary>
       <description>
         Icon theme to use for the panel, nautilus etc.
@@ -380,6 +380,20 @@
       <description>
         Semicolon-separated list of name=value pairs, as used in QT_SCREEN_SCALE_FACTORS.
       </description>
+    </key>
+    <key type="i" name="dtk-window-radius">
+      <default>8</default>
+      <summary>The window radius last time</summary>
+    </key>
+    <key type="s" name="primary-monitor-name">
+      <default>'eDP-1'</default>
+      <summary></summary>
+      <description></description>
+    </key>
+	  <key type="s" name="primary-monitor-rect">
+      <default>'0-0-0-0'</default>
+      <summary>x,y,width,height of screen geometry</summary>
+      <description></description>
     </key>
   </schema>
 </schemalist>
