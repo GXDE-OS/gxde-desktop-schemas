@@ -1,5 +1,5 @@
 [com.deepin.dde.dock]
-docked-apps=['deepin-wm-multitaskingview','dde-file-manager','gxde-music','gxde-movie','firefox-spark','wps-office-wps', 'wps-office-wpp', 'wps-office-et', 'thunderbird', 'dde-control-center', 'gxde-image-viewer']
+docked-apps=['gxde-multitaskingview','deepin-toggle-desktop','dde-file-manager','gxde-music','gxde-movie','firefox-spark','wps-office-wps', 'wps-office-wpp', 'wps-office-et', 'thunderbird', 'dde-control-center', 'gxde-image-viewer']
 hide-mode='keep-showing'
 display-mode='efficient'
 
