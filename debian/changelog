@@ -1,9 +1,10 @@
-deepin-desktop-schemas (3.13.16) UNRELEASED; urgency=medium
+deepin-desktop-schemas (3.13.17) UNRELEASED; urgency=medium
 
   * 修改系统默认图标
   * 任务栏新增多桌面切换按钮
+  * 修复在 deepin-kwin 6.0 下调整任务栏设置导致窗口管理器崩溃的问题
 
- -- gfdgd_xi <3025613752@qq.com>  Tue, 15 Apr 2025 22:50:26 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Sat, 03 May 2025 22:52:02 +0800
 
 deepin-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 
