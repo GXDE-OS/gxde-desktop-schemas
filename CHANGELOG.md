@@ -148,7 +148,7 @@
 *   desktop add enable hotzone setting ([36638d65](36638d65))
 *   add auto exit for deepin-notification ([23b19fbe](23b19fbe))
 *   add auto exit for dde-osd ([1c1e74fc](1c1e74fc))
-*   add auto-exit settings for dde-control-center ([b318a6fe](b318a6fe))
+*   add auto-exit settings for gxde-control-center ([b318a6fe](b318a6fe))
 *   startdde add key iowait-enabled and memchecker-enabled ([3591218f](3591218f))
 *   add calltrace ([4d1b5e0f](4d1b5e0f))
 *   add debug ([a1d72dd0](a1d72dd0))
@@ -177,7 +177,7 @@
 
 *   add auto exit for deepin-notification ([23b19fbe](23b19fbe))
 *   add auto exit for dde-osd ([1c1e74fc](1c1e74fc))
-*   add auto-exit settings for dde-control-center ([b318a6fe](b318a6fe))
+*   add auto-exit settings for gxde-control-center ([b318a6fe](b318a6fe))
 *   startdde add key iowait-enabled and memchecker-enabled ([3591218f](3591218f))
 
 

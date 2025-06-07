@@ -1,3 +1,3 @@
 [com.deepin.dde.dock]
-docked-apps=['gxde-multitaskingview','deepin-toggle-desktop','dde-file-manager','spark-store','org.deepin.flatdeb.gxde-music','gxde-music','org.deepin.flatdeb.gxde-movie','gxde-movie','firefox-spark','dde-control-center','gxde-image-viewer']
+docked-apps=['gxde-multitaskingview','deepin-toggle-desktop','gxde-file-manager','spark-store','org.deepin.flatdeb.gxde-music','gxde-music','org.deepin.flatdeb.gxde-movie','gxde-movie','firefox-spark','gxde-control-center','gxde-image-viewer']
 hide-mode='keep-showing'
