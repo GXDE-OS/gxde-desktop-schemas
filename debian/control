@@ -1,22 +1,23 @@
-Source: deepin-desktop-schemas
+Source: gxde-desktop-schemas
 Section: misc
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@deepin.com>
-Build-depends: debhelper (>= 9), libglib2.0-bin, python3, deepin-desktop-base
+Maintainer: gfdgd xi <3025613752@qq.com>
+Build-depends: debhelper (>= 9), libglib2.0-bin, python3, gxde-desktop-base
 Standards-Version: 3.9.5
-Homepage: http://www.deepin.org/
+Homepage: http://www.gxde.top/
 
-Package: deepin-desktop-schemas
+Package: gxde-desktop-schemas
 Section: misc
 Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends}
-Conflicts: deepin-default-gsettings
-Replaces: deepin-default-gsettings
+Provides: deepin-desktop-schemas
+Conflicts: deepin-default-gsettings, deepin-desktop-schemas
+Replaces: deepin-default-gsettings, deepin-desktop-schemas
 Breaks: dde-daemon (<< 2.92.2),
         startdde (<< 2.91.0),
         deepin-wm (<< 0.2.1),
         deepin-default-gsettings
 Description: GSettings deepin desktop-wide schemas
- deepin-desktop-schemas contains a collection of GSettings schemas for
+ gxde-desktop-schemas contains a collection of GSettings schemas for
  settings shared by various components of a desktop.
