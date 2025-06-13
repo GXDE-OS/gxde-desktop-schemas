@@ -12,7 +12,7 @@ Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends}
 Provides: deepin-desktop-schemas
-Conflicts: deepin-default-gsettings, deepin-desktop-schemas
+Conflicts: deepin-default-gsettings, deepin-desktop-schemas (>> 4.0.0)
 Replaces: deepin-default-gsettings, deepin-desktop-schemas
 Breaks: dde-daemon (<< 2.92.2),
         startdde (<< 2.91.0),

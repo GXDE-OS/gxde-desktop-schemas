@@ -1,12 +1,13 @@
-gxde-desktop-schemas (4.0.0) UNRELEASED; urgency=medium
+gxde-desktop-schemas (4.0.1) UNRELEASED; urgency=medium
 
   * 修改系统默认图标
   * 任务栏新增多桌面切换按钮
   * 修复在 deepin-kwin 6.0 下调整任务栏设置导致窗口管理器崩溃的问题
   * 修改 dde-file-manager、dde-control-center 为 gxde-file-manager、gxde-control-center
   * 将 deepin-desktop-schemas 修改为 gxde-desktop-schemas
+  * 调整 Conflicts 版本
 
- -- gfdgd_xi <3025613752@qq.com>  Sat, 07 Jun 2025 22:23:02 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Fri, 13 Jun 2025 22:44:51 +0800
 
 gxde-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 
