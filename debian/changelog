@@ -1,4 +1,4 @@
-gxde-desktop-schemas (4.0.2) UNRELEASED; urgency=medium
+gxde-desktop-schemas (4.0.3) UNRELEASED; urgency=medium
 
   * 修改系统默认图标
   * 任务栏新增多桌面切换按钮
@@ -7,8 +7,9 @@ gxde-desktop-schemas (4.0.2) UNRELEASED; urgency=medium
   * 将 deepin-desktop-schemas 修改为 gxde-desktop-schemas
   * 调整 Conflicts 版本
   * 修复 gxde top panel 顶栏无法使用托盘的问题
+  * 修复 mips 下默认不显示桌面壁纸的问题
 
- -- gfdgd_xi <3025613752@qq.com>  Sun, 03 Aug 2025 11:51:03 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Wed, 24 Sep 2025 14:25:52 +0800
 
 gxde-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 
