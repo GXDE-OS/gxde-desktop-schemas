@@ -46,6 +46,12 @@
 			<description></description>
 		</key>
 
+		<key name='apps-no-sandbox' type='as'>
+			<default>[]</default>
+			<summary>apps disable browser sandbox</summary>
+			<description></description>
+		</key>
+
 		<key name='apps-disable-scaling' type='as'>
 			<default>[]</default>
 			<summary>apps disable scaling</summary>
