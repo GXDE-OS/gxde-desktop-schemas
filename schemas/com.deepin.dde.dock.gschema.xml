@@ -82,5 +82,11 @@
             <summary></summary>
             <description></description>
         </key>
+
+        <key type="b" name="window-split">
+            <default>true</default>
+            <summary></summary>
+            <description></description>
+        </key>
     </schema>
 </schemalist>
