@@ -1,4 +1,4 @@
-gxde-desktop-schemas (4.0.5) UNRELEASED; urgency=medium
+gxde-desktop-schemas (4.0.6) UNRELEASED; urgency=medium
 
   * 修改系统默认图标
   * 任务栏新增多桌面切换按钮
@@ -10,8 +10,9 @@ gxde-desktop-schemas (4.0.5) UNRELEASED; urgency=medium
   * 修复 mips 下默认不显示桌面壁纸的问题
   * 支持设置 --no-sandbox
   * 新增 GXDE 任务栏不合并图标支持
+  * 支持使用 prime-run 调用 Nvidia 显卡运行应用
 
- -- gfdgd_xi <3025613752@qq.com>  Thu, 19 Feb 2026 23:11:48 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Tue, 07 Jul 2026 14:32:45 +0800
 
 gxde-desktop-schemas (3.13.11) UNRELEASED; urgency=medium
 

@@ -52,6 +52,12 @@
 			<description></description>
 		</key>
 
+		<key name='apps-prime-nvidia' type='as'>
+			<default>[]</default>
+			<summary>apps use nvidia gpu only</summary>
+			<description></description>
+		</key>
+
 		<key name='apps-disable-scaling' type='as'>
 			<default>[]</default>
 			<summary>apps disable scaling</summary>
