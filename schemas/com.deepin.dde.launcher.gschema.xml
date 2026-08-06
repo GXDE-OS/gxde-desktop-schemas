@@ -64,6 +64,12 @@
 			<description></description>
 		</key>
 
+		<key name='apps-disable-scaling-electron' type='as'>
+			<default>[]</default>
+			<summary>apps disable scaling for electron</summary>
+			<description></description>
+		</key>
+
 		<key name="apps-hidden" type='as'>
 			<default>[]</default>
 			<summary>apps hidden</summary>
