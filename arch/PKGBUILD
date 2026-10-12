@@ -1,0 +1,40 @@
+# Maintainer: CharOfString <root@charofstring.cc>
+pkgname=gxde-desktop-schemas-git
+pkgver=4.0.7
+pkgrel=1
+pkgdesc='GSettings GXDE desktop-wide schemas'
+# 默认值随架构不同（x86/arm） ・ Defaults differ per architecture (x86/arm).
+arch=('x86_64' 'aarch64')
+url="https://github.com/GXDE-OS/gxde-desktop-schemas"
+license=('GPL-3.0-or-later')
+depends=('glib2' 'dconf')
+makedepends=('git' 'python')
+provides=('deepin-desktop-schemas')
+conflicts=('deepin-desktop-schemas')
+source=()
+sha512sums=()
+
+# 直接使用 PKGBUILD 所在的 git 仓库作为源码 ・ Build from the git checkout this PKGBUILD lives in.
+_srcroot() {
+  git -C "$startdir" rev-parse --show-toplevel
+}
+
+# 与 debian/rules 相同 ・ Same as debian/rules.
+_distro() {
+  case $CARCH in
+    aarch64) echo arm ;;
+    *) echo x86 ;;
+  esac
+}
+
+build() {
+  make -C "$(_srcroot)" DISTRO=$(_distro)
+}
+
+check() {
+  make -C "$(_srcroot)" test
+}
+
+package() {
+  make -C "$(_srcroot)" DESTDIR="$pkgdir" DISTRO=$(_distro) install
+}
