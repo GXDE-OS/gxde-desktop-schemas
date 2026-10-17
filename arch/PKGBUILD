@@ -1,6 +1,6 @@
 # Maintainer: CharOfString <root@charofstring.cc>
 pkgname=gxde-desktop-schemas-git
-pkgver=4.0.7
+pkgver=4.0.8
 pkgrel=1
 pkgdesc='GSettings GXDE desktop-wide schemas'
 # 默认值随架构不同（x86/arm） ・ Defaults differ per architecture (x86/arm).
